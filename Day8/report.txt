@@ -1,0 +1,2 @@
+Number of clients: 5
+Names: Ahmed Khan, Sara Ali, Bilal Raza, Hina Malik

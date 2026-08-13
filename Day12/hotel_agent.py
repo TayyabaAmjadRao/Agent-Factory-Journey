@@ -8,7 +8,7 @@ load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Read CLAUDE.md
-with open("CLAUDE.md", "r") as f:
+with open("Day12/CLAUDE.md", "r") as f:
     claude_instructions = f.read()
 
 st.set_page_config(page_title="Grand Palace Hotel Assistant", page_icon="🏨")
